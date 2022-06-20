@@ -1,2 +1,1 @@
-# Implement-Queue-using-Stacks
-Stack Design Queue
+https://leetcode.com/problems/implement-queue-using-stacks
